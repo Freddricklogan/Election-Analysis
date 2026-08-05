@@ -1,5 +1,8 @@
 # Election Analysis
 
+**[Live demo / docs](https://freddricklogan.github.io/election-analysis/)** &nbsp;|&nbsp; [Portfolio](https://fredlogan.phd) &nbsp;|&nbsp; [All Projects](https://freddricklogan.github.io/projects/)
+
+
 ## Overview
 This project automates the analysis of election results using Python. Given a
 CSV file of individual ballots, the script tallies total votes, breaks down
